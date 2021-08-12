@@ -79,10 +79,10 @@ h1 {
 
 @media only screen and (max-width: 600px) {
   .text {
-    font-size: 15vh;
+    font-size: 13vh;
   }
   .lines {
-    height: 12vh;
+    height: 10vh;
   }
 }
 /*# sourceMappingURL=style.css.map */
