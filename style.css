@@ -70,10 +70,10 @@ h1 {
 
 @media only screen and (max-width: 768px) {
   .text {
-    font-size: 20vh;
+    font-size: 15vh;
   }
   .lines {
-    height: 16vh;
+    height: 12vh;
   }
 }
 
